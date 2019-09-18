@@ -34,6 +34,7 @@ RUN set -ex \
     imagemagick \
     libcurl4-openssl-dev \
     libjpeg-dev \
+    libpq-dev \
     libssl-dev \
     locales \
     make \
