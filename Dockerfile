@@ -32,6 +32,7 @@ RUN set -ex \
     gnupg \
     gzip \
     imagemagick \
+    jq \
     libcurl4-openssl-dev \
     libjpeg-dev \
     libpq-dev \
